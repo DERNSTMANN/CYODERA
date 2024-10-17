@@ -1,3 +1,4 @@
 ipython==8.28.0
 ipywidgets==8.1.5
-pandas==2.2.3
+pandas==2.2.3'
+voila
